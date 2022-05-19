@@ -1,0 +1,16 @@
+D:\Quanlymypham\Project\MyPham\MyPham\bin\Debug\MyPham.exe.config
+D:\Quanlymypham\Project\MyPham\MyPham\bin\Debug\MyPham.exe
+D:\Quanlymypham\Project\MyPham\MyPham\bin\Debug\MyPham.pdb
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.csprojResolveAssemblyReference.cache
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.Properties.Resources.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.csproj.GenerateResource.Cache
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.exe
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.pdb
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.formTableManager.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.Login.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.fAccountprofile.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.FormAdmin.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\RdlCompile.cache
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\RdlCompile.compiled
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.BILL.resources
+D:\Quanlymypham\Project\MyPham\MyPham\obj\Debug\MyPham.Baocaodoanhthu.resources
