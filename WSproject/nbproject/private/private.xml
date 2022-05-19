@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/contact.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/models/Transaction.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/saff.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/home.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/DAO/allDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/hireSV.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/signup.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/staffmanager.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/DAO/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/seeDetail.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/sendfeedback.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/sendFb.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/signup.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/home.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/models/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/layout/header.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/seeFeedback.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/seefeedback.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/contact.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/about.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/login.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/advertisement.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/edituser.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/customer.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/order.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/orderManager.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/hireService.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/customerManager.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/edituser.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/about.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/web/advertisement.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/WSproject/src/java/controllers/feedback.java</file>
+        </group>
+    </open-files>
+</project-private>
